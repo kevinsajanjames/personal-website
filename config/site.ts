@@ -4,9 +4,9 @@ export const siteConfig = {
   description: "Made with love and grace.",
   author: "Kevin Sajan James",
   links: {
-    twitter: "",
-    github: "",
-    email: "",
+    twitter: "https://twitter.com/kevinsajanjames",
+    github: "https://github.com/kevinsajanjames",
+    email: "kevinsajan@gmail.com",
   },
 }
 
